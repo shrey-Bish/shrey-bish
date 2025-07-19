@@ -24,7 +24,7 @@
 | 🔍 [Explainable Health Optimizer](https://github.com/shrey-Bish/explainable-health-optimizer) | Predict diabetes readmission with SHAP explanations | Python, SHAP, RF, Streamlit |
 | 🎯 [SkillSage](https://github.com/shrey-Bish/skillsage) | Resume skill extractor + gap analyzer for devs | React, FastAPI, PDF.js, Ollama |
 | 🌾 [Plant Disease Detector](https://github.com/shrey-Bish/plant-disease-detection) | Classical CV + ML for plant disease classification | OpenCV, Hu Moments, SVM |
-| 🎮 [ValoEmpire](https://github.com/shrey-Bish/valoempire) | Valorant trading platform with MERN stack | React, Node, MongoDB |
+| 🎮 [ValoEmpire](https://github.com/shrey-Bish/Valo-Empire) | Valorant trading platform with MERN stack | React, Node, MongoDB |
 
 ---
 
