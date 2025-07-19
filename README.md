@@ -12,7 +12,7 @@
 - 🎓 Master's in Computer Science @ Arizona State University (Fall '25)
 - 🧬 Research: **Explainable Health Optimizer** – SHAP + ML interpretability
 - 💼 Former Software Engineer with 2+ years experience
-- 🔍 Interests: LLMs, LangChain, OpenCV, Deployment
+- 🔍 Interests: LLMs, Development, OpenCV, Algorithms
 - 🧑‍💻 Obsessed with building clean, scalable software that matters
 
 ---
