@@ -54,7 +54,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/shrey-bishnoi/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:sbishnoi2000.sb@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://shrey-bish.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel" /></a>
+  <a href="https://shrey-bish.github.io"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel" /></a>
 </p>
 
 ---
