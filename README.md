@@ -2,59 +2,77 @@
 
 <p align="center">
   <a href="https://github.com/shrey-Bish">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=2000&pause=1000&center=true&vCenter=true&color=00F9FF&width=450&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Building+SkillSage+%F0%9F%94%A5;Explaining+AI+%E2%9A%AA;Always+learning+new+things..." />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=2200&pause=900&center=true&vCenter=true&color=00F9FF&width=700&lines=AI+Engineer;Data+Engineer;Software+Development+Engineer;Building+intelligent+products+with+Python+%2B+React;Always+learning%2C+building%2C+and+shipping" />
   </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/shrey-Bish"><img src="https://img.shields.io/badge/GitHub-shrey--Bish-111827?style=for-the-badge&logo=github" /></a>
+  <a href="https://www.linkedin.com/in/shrey-bishnoi/"><img src="https://img.shields.io/badge/LinkedIn-Shrey%20Bishnoi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:sbishno2@asu.edu"><img src="https://img.shields.io/badge/Email-sbishno2%40asu.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://shrey-bish.github.io"><img src="https://img.shields.io/badge/Portfolio-Live-000000?style=for-the-badge&logo=vercel" /></a>
 </p>
 
 ---
 
-### 🧠 About Me
-- 🎓 Master's in Computer Science @ Arizona State University (Fall '25)
-- 🧬 Research: **Explainable Health Optimizer** – SHAP + ML interpretability
-- 💼 Former Software Engineer with 2+ years experience
-- 🔍 Interests: LLMs, Development, OpenCV, Algorithms, Distributed Streaming
-- 🧑💻 Obsessed with building clean, scalable software that matters
+### About Me
+- MS in Computer Science at Arizona State University
+- Former Software Engineer with 2+ years of experience building production-minded software
+- Focused on AI engineering, data engineering, and full-stack product development
+- Interested in LLM systems, machine learning, analytics dashboards, distributed data workflows, and scalable backend design
+- I enjoy building tools that turn complex data into products people can actually use
 
 ---
 
-### 🚀 Featured Projects
+### What I Build
+- AI apps and ML systems with explainability, personalization, and practical workflows
+- Data-heavy platforms that combine APIs, analytics, dashboards, and decision support
+- End-to-end products using React, FastAPI, Node.js, Python, and modern cloud tooling
+
+---
+
+### Featured Projects
 
 | Project | Description | Stack |
 |--------|-------------|--------|
-| 📈 [Real-Time Graph Analytics](https://github.com/shrey-Bish) | Distributed streaming backend for high-throughput events | Kafka, Neo4j, RocksDB, K8s |
-| 🔍 [Explainable Health Optimizer](https://github.com/shrey-Bish/explainable-health-optimizer) | Predict diabetes readmission with SHAP explanations | Python, SHAP, LightGBM, Streamlit |
-| 🎯 [SkillSage](https://github.com/shrey-Bish/skillsage) | Resume skill extractor + gap analyzer for devs | React, FastAPI, PDF.js, Ollama |
-| 🌾 [Plant Disease Detector](https://github.com/shrey-Bish/plant-disease-detection) | Classical CV + ML for plant disease classification | OpenCV, Flask, Random Forest |
-| 🎮 [ValoEmpire](https://github.com/shrey-Bish/Valo-Empire) | Valorant trading platform with MERN stack | React, Node, MongoDB |
+| 🧠 [Explainable Health Optimizer](https://github.com/shrey-Bish/explainable-health-optimizer) | Predicts diabetes readmission and explains model decisions with SHAP through an interactive dashboard | Python, LightGBM, SHAP, Streamlit |
+| 🎯 [SkillSage](https://github.com/shrey-Bish/SkillSage) | AI-powered learning assistant that extracts resume skills, finds gaps, and suggests role-based learning roadmaps | React, FastAPI, PDF Parsing, Python |
+| 📊 [healthcare-analytics-hub](https://github.com/shrey-Bish/healthcare-analytics-hub) | Full-stack analytics platform with FastAPI pipelines, React dashboards, and Power BI reporting | FastAPI, React, Pandas, Power BI, Docker |
+| 🌱 [FinClear](https://github.com/shrey-Bish/FinClear) | Hackathon-built AI insurance experience with conversational onboarding, accessibility features, and personalized recommendations | Next.js, TypeScript, Gemini, Supabase |
+| 🎮 [Valo-Empire](https://github.com/shrey-Bish/Valo-Empire) | MERN application with authentication, validation, and protected routes for a polished full-stack web experience | React, Node.js, Express, MongoDB |
+| 🌾 [Plant-Disease-Detection](https://github.com/shrey-Bish/Plant-Disease-Detection) | Plant disease classification project using computer vision and machine learning techniques | Python, OpenCV, Flask, Machine Learning |
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
-> **Languages**  
-> ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) 
-> ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B) 
-> ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-> ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
-> ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql&logoColor=white)
+**Languages**  
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql&logoColor=white)
 
-> **Frameworks & Tools**  
-> ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-> ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=nodedotjs)
-> ![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)
-> ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
-> ![Streamlit](https://img.shields.io/badge/-Streamlit-05122A?style=flat&logo=streamlit)
+**Frameworks and Tools**  
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=nextdotjs)
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=nodedotjs)
+![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)
+![Streamlit](https://img.shields.io/badge/-Streamlit-05122A?style=flat&logo=streamlit)
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
+![Supabase](https://img.shields.io/badge/-Supabase-05122A?style=flat&logo=supabase)
 
-> **DevOps & Data**  
-> ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-> ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
-> ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)
-> ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonaws)
-> ![Apache Kafka](https://img.shields.io/badge/-Kafka-05122A?style=flat&logo=apachekafka)
+**AI, Data, and Cloud**  
+![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
+![Power%20BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat&logo=powerbi)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+![Apache Kafka](https://img.shields.io/badge/-Kafka-05122A?style=flat&logo=apachekafka)
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonaws)
 
 ---
 
-### 🔗 Connect With Me
+### Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shrey-bishnoi/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
