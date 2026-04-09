@@ -38,7 +38,7 @@
 | 📚 [PaperPilot](https://github.com/shrey-Bish/paperpilot) | AI research workspace that turns papers into summaries, insights, implementation guidance, grounded Q&A, and a runnable sandbox | Next.js, FastAPI, Vertex AI, Firebase |
 | 🚨 [RapidWing](https://github.com/shrey-Bish/rapidwing) | Real-time emergency command system that fuses live incident feeds, risk scoring, trigger logic, and dispatch-ready intelligence | Python, FastAPI, React, Data Pipelines |
 | 🧠 [Explainable Health Optimizer](https://github.com/shrey-Bish/explainable-health-optimizer) | Predicts diabetes readmission and explains model behavior with SHAP through an interpretable ML dashboard | Python, LightGBM, SHAP, Streamlit |
-| 🎯 [SkillSage](https://github.com/shrey-Bish/SkillSage) | AI-powered learning assistant for extracting resume skills, identifying gaps, and generating role-based roadmaps | React, FastAPI, PDF Parsing, Python |
+| 🌱 [FinClear](https://github.com/shrey-Bish/FinClear) | AI-powered insurance experience with conversational onboarding, accessibility features, and personalized recommendations for Gen Z users | Next.js, TypeScript, Gemini, Supabase |
 | 📊 [healthcare-analytics-hub](https://github.com/shrey-Bish/healthcare-analytics-hub) | Full-stack analytics platform with FastAPI data services, React dashboards, and Power BI reporting | FastAPI, React, Pandas, Power BI, Docker |
 
 ---
